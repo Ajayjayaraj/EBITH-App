@@ -13,6 +13,7 @@ Future<void> main() async {
 
   runApp(
     MaterialApp(
+      //hello
       theme: ThemeData.dark(),
       home: TakePictureScreen(
         camera: firstCamera,
